@@ -14,10 +14,36 @@ web-standards-class (웹표준 개발론)
 
    
 ## 주차별 강의 내용
-| 주차          |강의 주제	    | 강의 내용 |
-| ------------- |:-------------:| ---------:|
-| 1| | |
-
+* 1주차(08.30) - 수업진행 방법과 수업내용에 대한 개괄적 소개 & Front-end Engineer (Front-end 엔지니어의 역활 및 업무 소개) 
+* 2주차(09.06) - HTML Basic
+        Intro (World Wide Web이란? / Markup 언어 소개)
+        HTML4 (HTML이란? / HTML 서식과 문서 구조 / DTD / block vs. inline / Elements : Text, List, Table, Link, Image)
+        HTML4 (Elements : Object, Form, Frame, Style, Script .. ) 
+* 3주차(09.13) - HTML Advanced
+        XHTML1.0 (HTML4와 XHTML1.0의 차이 / HTML에서 XHTML로 전환하는 방법 / Validating (X)HTML )
+        시멘틱 마크업 (시멘틱한 마크업이란? / 시멘틱의 의미 / 사례)
+        코딩 컨벤션 & 개발 도구 소개 
+* 4주차(09.20) - 웹 접근성 및 웹 표준
+        웹 접근성과 웹표준에 대하여 자세히 알아본다. 
+* 5주차(09.27) - CSS Basic
+        CSS란? / CSS 서식 / 선택자 / Value / Font, Text / Color, Background / List / Box model / Float, Position 
+* 6주차(10.04) - CSS Advanced (1)
+        레이아웃 / Float, Position 활용 / Cross browsing 
+* 7주차(10.11) - CSS Advanced (2)
+        Sprites, Image Replace / Hack/Filter 
+* 8주차(10.18) - 중간고사 
+* 9주차(10.25) - UX 개론 
+* 10주차(11.01) - HTML5 / CSS3 (1)
+        html5 기본구조 및 개괄적 소개 
+* 11주차(11.08) - HTML5 / CSS3 (2)
+        Web Form / Video & Audio / DOM의 이해, Canvas 등.. 
+* 12주차(11.15) - HTML5 / CSS3 (3)
+        css2 와 css3의 차이점 / text-shadow, text- overflow, word-wrap, @font-face, opacity, border-radius, 
+* 13주차(11.22) - HTML5 / CSS3 (4)
+        background(s), gradient, transform / Flexible Box Model / Transition / Animations 
+* 14주차(11.29) - 모바일 웹 개발 가이드
+        모바일웹 개발, 무엇이 다른가? / 모바일웹 개발 Check Point / 개발 Tools / 모바일웹 개발 최적화 기법 / 사용성 향상 팁 
+* 15주차(12.06) - 기말고사 
 ## 수업 방법
 * 일반 강의(60%), 실습 강의(40%)
 
